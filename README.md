@@ -3,14 +3,14 @@
 A mobile application built using React Native
 
 <p align="center">
-  <img src="https://github.com/m-inan/react-native-music-app/blob/master/images/screen.gif?raw=true" alt="animated" />
+  <img src="./images/screen.gif?raw=true" alt="animated" />
 </p>
 
 ## Reanimated V2
-> Due to performance issues, this example has been rewritten using [React Native Reanimated V2](https://github.com/software-mansion/react-native-reanimated) You can check this branch for [Animated API](https://github.com/m-inan/react-native-music-app/tree/animated_api).
+> Due to performance issues, this example has been rewritten using [React Native Reanimated V2](https://github.com/software-mansion/react-native-reanimated)
 
 ## Track Player
-> [React Native Track Player](https://github.com/react-native-kit/react-native-track-player) package is used for this example. However, since the release version does not have "Shuffle" and "Repeat" features, [this](https://github.com/m-inan/react-native-track-player) repository is used.
+> [React Native Track Player](https://github.com/react-native-kit/react-native-track-player) package is used for this example.
 
 ## Features
 
@@ -25,7 +25,7 @@ You have to put sounds and pictures in correct positions in the data. and you ca
 
 #### Download
 ```console
-git clone https://github.com/m-inan/react-native-music-app
+git clone https://github.com/tontelv/react-native-music-app
 cd react-native-music-app
 ```
 
@@ -62,7 +62,7 @@ yarn android
 - [SafeArea Context](https://github.com/th3rdwave/react-native-safe-area-context)
 
 ### Reporting Issues
-If believe you've found an issue, please [report it](https://github.com/m-inan/react-native-music-app/issues) along with any relevant details to reproduce it.
+If believe you've found an issue, please [report it](https://github.com/tontelv/react-native-music-app/issues) along with any relevant details to reproduce it.
 
 ### Asking for help 
 Please do not use the issue tracker for personal support requests. Instead, use StackOverflow.
